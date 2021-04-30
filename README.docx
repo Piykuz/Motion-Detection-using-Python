@@ -1,1 +1,3 @@
+MOTION DETECTION USING PYTHON
+
 It is a GUI based Application which is able to detect motion in the video capturing through a webcam. As soon as it detects motion it starts recording a video and save it to the hard drive with the folder name as current date and file name as current time and it also send an email alert to the user on his email id whenever someone is detected in the camera. 
